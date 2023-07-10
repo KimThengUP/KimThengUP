@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KimThengUP
+- 👋 Hi, I’m KimTheng
 - 👀 I’m interested in Design and Development
-- 🌱 I’m currently learning new thing ( LIFE LONG LEARNING )
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning software development ( LIFE LONG LEARNING )
 - 📫 How to reach me ...
 
 <!---
