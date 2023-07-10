@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KimTheng
 - 👀 I’m interested in Design and Development
-- 🌱 I’m currently learning software development ( LIFE LONG LEARNING )
+- 🌱 I’m currently learning to become software development for my journal ( LIFE LONG LEARNING )
 - 📫 How to reach me ...
 
 <!---
