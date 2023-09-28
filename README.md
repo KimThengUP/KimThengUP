@@ -18,7 +18,7 @@
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/KimThengUP/metrics)</sub>
 
 
 <!---
