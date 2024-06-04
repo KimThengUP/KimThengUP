@@ -3,8 +3,6 @@
 <h4 align="center">I’m interested in Design and Development</h4>
 <h4 align="center">I’m currently learning to become software development for my journal ( LIFE LONG LEARNING )</h4>
 
-/* <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim-theng&label=Profile%20views&color=0e75b6&style=flat" alt="kim-theng" /> </p> */
-
 - 🌱 I’m currently learning Mobile Application **React Native, Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-chi-lilac.vercel.app/](https://my-portfolio-chi-lilac.vercel.app/)
